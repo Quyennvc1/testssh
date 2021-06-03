@@ -1,1 +1,3 @@
 noi dung c master
+
+cap nhat boi git clone
